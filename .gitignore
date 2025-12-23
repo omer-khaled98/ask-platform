@@ -3,10 +3,6 @@ node_modules/
 **/node_modules/
 
 # Env files
-.env
-**/.env
-.env.*
-**/.env.*
 
 # Build outputs
 dist/
@@ -20,5 +16,5 @@ build/
 # OS / Editor
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
+config.bat
